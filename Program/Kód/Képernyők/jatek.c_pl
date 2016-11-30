@@ -1,7 +1,5 @@
 screen.Init("jatek")
 screen.BackgroundPic($hatter)
 internal main
-    while true
-        texture.Scroll($hatter, "down", 1)
-    elihw
+    texture.Scroll($hatter, "down", 1)
 lanretni
