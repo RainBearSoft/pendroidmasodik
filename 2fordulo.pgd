@@ -1,0 +1,20 @@
+[project]
+projectname=Autós játék
+appname=Autós játék
+package=hu.rainbear.masodik
+
+[android]
+version=24
+buildtools=24.0.2
+
+[ramdisk]
+enable=true
+size=2G
+JDK=true
+SDK=true
+autosaveenable=true
+autosaveinterval=60
+
+[config]
+minmem=300M
+maxmem=1G

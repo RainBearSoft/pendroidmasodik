@@ -1,0 +1,5 @@
+Global $simaautok = texture.BatchLoad("Sima autók")
+Global $fejlesztettautok = texture.BatchLoad("Fejlesztett autók")
+Global $akadalyok = texture.BatchLoad("Akadályok")
+Global $hatter = texture.Load("hatter.png")
+texture.Repeat($hatter, True)

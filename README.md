@@ -1,2 +1,2 @@
-# pendroidmasodik
-PENdroid 2. forduló
+﻿# pendroidmasodik
+PENdroid 2. fordulós autós játék
