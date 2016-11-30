@@ -1,8 +1,8 @@
 ﻿# pendroidmasodik
 PENdroid 2. fordulós autós játék
 Ide is kiírom:
-Fontossági sorrendben:
-# 1. Akadályok
+# Fontossági sorrendben:
+1. Akadályok
 2. Coin
 3. Benzin
 4. Pontrendszer (globális)
