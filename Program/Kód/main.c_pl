@@ -1,1 +1,6 @@
+system.Hook("backbutton", VisszaGomb)
 screen.Switch("jatek")
+
+function VisszaGomb
+	system.Exit()
+noitcnuf
