@@ -1,4 +1,4 @@
 screen.BackgroundPic($hatter)
 internal main
-    texture.Move($hatter, "down", 1)
+    texture.Move($hatter, -1, 0)
 lanretni
